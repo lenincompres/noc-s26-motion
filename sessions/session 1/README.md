@@ -8,9 +8,6 @@ Welcome to the class! This first module is about getting acclimated to the class
 ## Book Reference: 
 - 📕 [Nature of Code Chapter 0](https://natureofcode.com/random)
 
-## JS/OOP Concepts: 
-Basic functions, random() in p5.js, manipulating position, color, and size.
-
 ### Reference Research and Artistic Work:
 - [Pulse Room](https://www.lozano-hemmer.com/pulse_room.php) by Rafael Lozano-Hemmer
 - [The Book of Shaders on Noise](https://thebookofshaders.com/11/) by Patricio Gonzalez Vivo & Jen Lowe
@@ -19,10 +16,13 @@ Basic functions, random() in p5.js, manipulating position, color, and size.
 ## In-Class Exercise: 
 Simple sketch using random values to move shapes in random directions.
 
-## Activity: 
+### JS/OOP Concepts: 
+Basic functions, random() in p5.js, manipulating position, color, and size.
+
+### Activity: 
 Introduce constraints to randomness to create controlled yet dynamic outcomes.
 
-## p5.js Review
+### p5.js Review
 If you feel you need a p5.js refresher, specifically around Object Oriented Programming in JavaScript (classes and objects), here are links to the ICM videos:
 
 - [Full p5.js track](https://thecodingtrain.com/tracks/code-programming-with-p5-js/)
