@@ -2,7 +2,7 @@
 
 ## Schedule
 
-### 1: Jan 22 - Introductions: Random Stuff
+### 1: Jan 22 - [Introductions: Random Stuff](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%201)
 
 ### 2: Jan 29 - Randomness Too: Let’s Make Some Noise!
 
