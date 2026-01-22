@@ -1,4 +1,4 @@
-# Introductions: Some Random Stuff
+# Introductions: Random Stuff
 
 ## Lecture: 
 Introduction to randomness in creative coding and its role in simulations. Discuss the difference between pure randomness and controlled randomness (Perlin noise).
