@@ -51,7 +51,7 @@ For information on office hours and additional help, please see e-mail from the 
 - Grading will be based on a combination of factors:
   - Participation (25%)
   - Assignments (50%)
-    - Simularion Project (25%)
+    - Simulation Project (25%)
   - Final Project (25%)
 
 ## Community Guidelines
