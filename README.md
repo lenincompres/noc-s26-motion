@@ -10,7 +10,7 @@
 
 ### 4: Feb 12 - Forces I: Let's Fig Newton’s Laws
 
-### 5: Feb 19 - Forces II: Viva La Resistance!
+### 5: Feb 19 - Forces II: Repulsion, Attraction and Resistance
 
 ### 6: Feb 26 - Oscillation: Swirl, Swing, and Sway
 
