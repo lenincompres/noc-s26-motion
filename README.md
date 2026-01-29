@@ -4,7 +4,7 @@
 
 ### 1: Jan 22 - [Introductions: Random Stuff](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%201)
 
-### 2: Jan 29 - Randomness Too: Make Some Noise!
+### 2: Jan 29 - [Randomness Too: Make Some Noise!](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%202)
 
 ### 3: Feb 5 - Vectors: The X and Y Factors
 
