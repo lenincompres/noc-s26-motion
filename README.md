@@ -2,15 +2,15 @@
 
 ## Schedule
 
-### 1: Jan 22 - Introductions: Random Stuff
+### 1: Jan 22 - [Introductions: Random Stuff](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%201)
 
-### 2: Jan 29 - Randomness Too: Let’s Make Some Noise!
+### 2: Jan 29 - Randomness Too: Make Some Noise!
 
 ### 3: Feb 5 - Vectors: The X and Y Factors
 
 ### 4: Feb 12 - Forces I: Let's Fig Newton’s Laws
 
-### 5: Feb 19 - Forces II: Viva La Resistance!
+### 5: Feb 19 - Forces II: Repulsion, Attraction and Resistance
 
 ### 6: Feb 26 - Oscillation: Swirl, Swing, and Sway
 
@@ -51,7 +51,7 @@ For information on office hours and additional help, please see e-mail from the 
 - Grading will be based on a combination of factors:
   - Participation (25%)
   - Assignments (50%)
-    - Simularion Project (25%)
+    - Simulation Project (25%)
   - Final Project (25%)
 
 ## Community Guidelines
