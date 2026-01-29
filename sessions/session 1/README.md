@@ -16,10 +16,18 @@ Simple sketch using random values to move shapes in random directions.
 Introduce constraints to randomness to create controlled yet dynamic outcomes.
 
 ## Supplemental Material:
-- Introduction to Randomness in Creative Coding (video)
-- Random Walks and Perlin Noise (video)
-- Sol LeWitt's Wall Drawings (art reference)
-- Casey Reas' Generative Art (art reference)
+- 🚂 [Drawing Object Trails](https://youtu.be/vqE8DMfOajk)—this example uses an array of vectors to store the history of an object. (19 min)
+- 🚂 [Horizontal Directional Drilling](https://thecodingtrain.com/challenges/172-directional-boring)—an example of a simulation of a drill that makes use of vectors to store position and direction.
+- 🚂 [Snake Game](https://thecodingtrain.com/challenges/115-snake-game-redux)—a basic "snake" game using vectors for the snake body and food position.
+- 🚂 [Ray Casting](https://thecodingtrain.com/challenges/145-ray-casting-2d)—basic ray casting engine that uses vectors for the "rays".
+
+## Code Samples
+
+- 💻 [Nature of Code Chapter 1 Book Example Collection](https://editor.p5js.org/natureofcode/collections/MlQmiDlzCY)
+- 💻 [Nature of Code Chapter 1 Video Example Collection](https://editor.p5js.org/codingtrain/collections/-nLVvrmY7)
+- 💻 [Drawing Object Trails](https://editor.p5js.org/codingtrain/sketches/9DnjxCNB-)
 
 ## Homework: 
-Build a sketch manipulating multiple properties with randomness.
+Create a sketch with multiple walkers. Experiment with arrays and classes, and/or drawing tools.
+
+Alternatively, apply perlin noise to a project conserning other than movement. How about color, sound, images, video. See which of your older projects could use this.
