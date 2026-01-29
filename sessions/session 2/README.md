@@ -1,25 +1,34 @@
 # Introductions: Some Random Stuff
 
 ## Lecture: 
-Introduction to randomness in creative coding and its role in simulations. Discuss the difference between pure randomness and controlled randomness (Perlin noise).
+Introduction to perlin noise. Navigating a 2 and 3 dimensional space. Using helper methods, and creating objects and Classes.
 
 ## Book Reference: 
-Chapter 1: Randomness
+Chapter 1: Randomness (...continued)
 
-## JS/OOP Concepts:
-Scope, Objects, Classes and static functions
+## JS/OOP Concepts: 
+Basic functions, random() in p5.js, manipulating position, color, and size.
 
 ## In-Class Exercise: 
-- Simple sketch using perlin noise in 1, 2 and 3 dimensions
+Simple sketch using random values to move shapes in random directions.
 
 ## Activity: 
-- Create a class library for drawing shapes (fish, butterfly, spider)
+Introduce constraints to randomness to create controlled yet dynamic outcomes.
 
 ## Supplemental Material:
-- Introduction to Randomness in Creative Coding (video)
-- Random Walks and Perlin Noise (video)
-- Sol LeWitt's Wall Drawings (art reference)
-- Casey Reas' Generative Art (art reference)
+- 🚂 [2D Perlin Noise](https://youtu.be/ikwNrFvnL3g?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 11 min
+- 🚂 [noiseDetail()](https://youtu.be/D1BBj2VaBl4?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 4 min
+- 🚂 [Open Simplex Noise](https://thecodingtrain.com/tracks/noise/noise/open-simplex-noise)
+
+## Code Samples
+
+- 💻 [All Nature of Code Examples](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)
+- 💻 [Nature of Code Chapter 0 Example Collection](https://editor.p5js.org/natureofcode/collections/q6TdDnTAp)
+- 💻 [Additional Perlin Noise Example Collection](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)
+- 💻 [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
+- 💻 [Random Walk Lévy Flight](https://editor.p5js.org/codingtrain/sketches/L24X90MBH)
 
 ## Homework: 
-Build a sketch manipulating multiple properties with randomness.
+Create a sketch with multiple walkers. Experiment with arrays and classes, and/or drawing tools.
+
+Alternatively, apply perlin noise to a project conserning other than movement. How about color, sound, images, video. See which of your older projects could use this.
