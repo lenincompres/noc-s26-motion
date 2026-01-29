@@ -1,7 +1,7 @@
 # Introductions: Some Random Stuff
 
 ## Lecture: 
-Introduction to perlin noise. Navigating a 2 and 3 dimensional space. Using helper methods, and creating objects and Classes.
+Introduction to Perlin noise ( controlled randomness) and its advantages over pure randomness for creating more natural-looking motion and patterns. Compare random and noise-based movement. Using helper methods, and creating objects and Classes.
 
 ## Book Reference: 
 Chapter 1: Randomness (...continued)
@@ -10,7 +10,7 @@ Chapter 1: Randomness (...continued)
 Basic functions, random() in p5.js, manipulating position, color, and size.
 
 ## In-Class Exercise: 
-Simple sketch using random values to move shapes in random directions.
+Simple sketch using random values to move shapes in random directions. Refactor the previous exercise to use Perlin noise, smoothing out the chaotic movements into more organic ones. Navigate a 3D array with perlin noise.
 
 ## Activity: 
 Introduce constraints to randomness to create controlled yet dynamic outcomes.
