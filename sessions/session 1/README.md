@@ -2,6 +2,7 @@
 
 ## Lecture: 
 Introduction to randomness in creative coding and its role in simulations. Discuss the difference between pure randomness and controlled randomness (Perlin noise).
+- [Introduction Slides](https://docs.google.com/presentation/d/1iL0bbOMbS_S8ssUGRecb7rtTZW9W9HaZrV0YKVRn36g/edit?usp=sharing)
 
 ## Book Reference: 
 - 📕 [Nature of Code Chapter 0](https://natureofcode.com/random)
