@@ -35,7 +35,7 @@ Introduce constraints to randomness to create controlled yet dynamic outcomes.
 - 💻 [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
 - 💻 [Random Walk Lévy Flight](https://editor.p5js.org/codingtrain/sketches/L24X90MBH)
 
-## Homework: 
+## Assignment: 
 Create a sketch with multiple walkers. Experiment with arrays and classes, and/or drawing tools.
 
 Alternatively, apply perlin noise to a project conserning and aspect other than movement—how about color, sound, images, video? See which of your older projects could use this.
