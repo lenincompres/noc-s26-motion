@@ -39,3 +39,5 @@ Introduce constraints to randomness to create controlled yet dynamic outcomes.
 Create a sketch with multiple walkers. Experiment with arrays and classes, and/or drawing tools.
 
 Alternatively, apply perlin noise to a project conserning and aspect other than movement—how about color, sound, images, video? See which of your older projects could use this.
+
+Share your project to our [wiki page](https://github.com/lenincompres/noc-s26-motion/wiki/Assignment-2).
