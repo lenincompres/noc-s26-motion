@@ -1,4 +1,4 @@
-# Introductions: Some Random Stuff
+# Introductions: Make Some Noise
 
 ## Lecture: 
 Introduction to Perlin noise ( controlled randomness) and its advantages over pure randomness for creating more natural-looking motion and patterns. Compare random and noise-based movement. Using helper methods, and creating objects and Classes.
