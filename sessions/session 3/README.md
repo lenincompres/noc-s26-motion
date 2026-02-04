@@ -1,4 +1,4 @@
-# Vectors
+# Vectors: The X and Y Factors
 
 This module, we are really digging into the foundational material for the class. Almost every example all semester long will make use of vectors! This is a chance to learn about what vectors are, how they work in p5.js, and practice coding with them.
 
