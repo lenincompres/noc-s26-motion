@@ -4,7 +4,7 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [Chapter 2](https://natureofcode.com/force/)
+- 📗 [Chapter 2 - continued](https://natureofcode.com/force/)
 - 🚂 [2.5 Gravitational Attraction](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/5-gravitational-attraction) - 16 min
 - 🚂 [2.6 Mutual Attraction](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/6-mutual-attraction) - 22 min
 
