@@ -4,7 +4,7 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [Chapter 2](https://natureofcode.com/force/)
+- 📗 [Chapter 2 - up to 2.6](https://natureofcode.com/forces/)
 - 🚂 [2.1 Simulating Forces: Gravity and Wind](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/1-gravity-and-wind) - 24 min
 - 🚂 [2.2 Mass and Acceleration](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/2-mass-and-acceleration) - 12 min
 - 🚂 [2.3 Friction Force](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/3-friction-force) - 14 min
