@@ -1,4 +1,4 @@
-# Forces
+# Forces II: Repulsion, Attraction and Resistance
 
 ## Core Material
 
