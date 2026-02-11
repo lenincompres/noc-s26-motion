@@ -6,19 +6,19 @@
 
 ### 2: Jan 29 - [Randomness Too: Make Some Noise!](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%202)
 
-### 3: Feb 5 - Vectors: The X and Y Factors
+### 3: Feb 5 - [Vectors: The X and Y Factors](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%203)
 
-### 4: Feb 12 - Forces I: Let's Fig Newton’s Laws
+### 4: Feb 12 - [Forces I: Let's Fig Newton’s Laws](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%204)
 
-### 5: Feb 19 - Forces II: Repulsion, Attraction and Resistance
+### 5: Feb 19 - [Forces II: Repulsion, Attraction and Resistance](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%205)
 
-### 6: Feb 26 - Oscillation: Swirl, Swing, and Sway
+### 6: Feb 26 - [Oscillation: Swirl, Swing, and Sway](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%206)
 
-### 7: Mar 5 - Motion: Springs, Strings, and Things
+### 7: Mar 5 - [Motion: Springs, Strings, and Things](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%207)
 
 ### 8: Mar 12 - [Simulation Project](projects/simulation)
 
-### 9: Mar 19 - Particle Systems: Sweeping glitter
+### 9: Mar 19 - [Particle Systems: Sweeping glitter](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%209)
 
 ### SPRING BREAK
 
