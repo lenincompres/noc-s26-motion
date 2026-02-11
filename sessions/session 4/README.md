@@ -1,4 +1,4 @@
-# Forces
+# Forces I: Let's Fig Newton’s Laws
 
 ## Core Material
 
