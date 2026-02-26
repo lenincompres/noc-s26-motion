@@ -1,4 +1,4 @@
-# Oscillating Motion
+# Oscillation: Swirl, Swing, and Sway
 
 ## Core Material
 
