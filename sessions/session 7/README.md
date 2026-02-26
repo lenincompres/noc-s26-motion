@@ -1,8 +1,8 @@
-# Oscillating Motion
+# Motion: Springs, Strings, and Things
 
 ## Core Material
 
-For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
+For this module, we will be reviewing all our and applying the conecpt further into new ideas, including those we are exploring for our simulation project!
 
 - 📗 [Chapters 0-3: Oscillation](https://natureofcode.com/oscillation/)
 - 🚂 [3.7 Additive Waves](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/7-additive-waves) - 13 min
@@ -35,4 +35,17 @@ For each module, I will provide a list of additional video tutorials and reading
 - 💻 [Fourier Series/Transform Collection](https://editor.p5js.org/codingtrain/collections/yCcUL8awW)
 
 ## Assignment
+
+- [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S25/tree/main/projects/simulation) - due Thursday, March 12
+
+## Emoji Key
+
+The following emoji key will hopefully help you navigate the material for each module.
+
+- 🚂 Video tutorial from Coding Train
+- 🎥 Other video tutorial
+- 📗 Nature of Code book
+- 📕 Other reading
+- 💻 Code examples
+- 🎨 Creative project references
 
