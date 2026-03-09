@@ -18,9 +18,9 @@
 
 ### 8: Mar 12 - [Simulation Project](projects/simulation)
 
-### 9: Mar 19 - [Particle Systems: Sweeping glitter](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%209)
-
 ### SPRING BREAK
+
+### 9: Mar 26 - [Particle Systems: Sweeping glitter](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%209)
 
 ### 10: Apr 2 - Autonomous Agents I: Where Are You Going?
 
