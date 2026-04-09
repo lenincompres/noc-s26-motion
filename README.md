@@ -26,9 +26,9 @@
 
 ### 11: Apr 9 - [Autonomous Agents II](https://github.com/lenincompres/noc-s26-motion/blob/main/sessions/session%2010-11/%20README.md): The Flock is Happening.
 
-### 12: Apr 16 -  Physics Libraries I: Rock Solid and [Final Project Proposals](projects/final)
+### 12: Apr 16 -  [Physics Libraries I](https://github.com/lenincompres/noc-s26-motion/blob/main/sessions/session%2012-13/README.md): Rock Solid and [Final Project Proposals](projects/final)
 
-### 13: Apr 23 - Physics Libraries II: Plushies! and [Final Project Workshop](projects/final)
+### 13: Apr 23 - [Physics Libraries II](https://github.com/lenincompres/noc-s26-motion/blob/main/sessions/session%2012-13/README.md): Plushies! and [Final Project Workshop](projects/final)
 
 ### 14: Apr 30 - [Final Project Presentations](projects/final)
 
