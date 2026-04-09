@@ -22,9 +22,9 @@
 
 ### 9: Mar 26 - [Particle Systems: Sweeping glitter](https://github.com/lenincompres/noc-s26-motion/tree/main/sessions/session%209)
 
-### 10: Apr 2 - Autonomous Agents I: Where Are You Going?
+### 10: Apr 2 - [Autonomous Agents I](https://github.com/lenincompres/noc-s26-motion/blob/main/sessions/session%2010-11/%20README.md): Where Are You Going?
 
-### 11: Apr 9 - Autonomous Agents II: The Flock is Happening.
+### 11: Apr 9 - [Autonomous Agents II](https://github.com/lenincompres/noc-s26-motion/blob/main/sessions/session%2010-11/%20README.md): The Flock is Happening.
 
 ### 12: Apr 16 -  Physics Libraries I: Rock Solid and [Final Project Proposals](projects/final)
 
