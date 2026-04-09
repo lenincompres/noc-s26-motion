@@ -51,7 +51,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ## Assignment
 
-- [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S25/tree/main/projects/simulation) - due Thursday, March 13
+- [Final Project](https://github.com/lenincompres/noc-s26-motion/tree/main/projects/final) - due Thursday, April 30
 
 ## Emoji Key
 
