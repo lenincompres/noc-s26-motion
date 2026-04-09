@@ -1,5 +1,7 @@
 # Autonomous Agents
 
+This Material will take the span of two weeks. Part 1 and Part 2.
+
 ## Core Material
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
