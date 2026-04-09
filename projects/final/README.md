@@ -11,7 +11,7 @@ Other notes:
 3. Final project can also be a collection or series of small sketches or experiments, rather than one larger completed project.
 4. If you prefer to focus your time on a final project that is more research or project proposal oriented, this is perfectly acceptable!
 
-## Final Project Proposals (April 10 / 17)
+## Final Project Proposals (April 16)
 
 Put together a final project proposal. It's up to you to best present your idea, but some things I would suggest are:
 
