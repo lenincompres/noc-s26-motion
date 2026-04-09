@@ -64,7 +64,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- [Final Project Proposal](https://github.com/lenincompres/noc-s26-motion/tree/main/projects/final)
+- [Final Project Proposal](https://github.com/lenincompres/noc-s26-motion/tree/main/projects/final) — Proposal due April 16
 
 ## Emoji Key
 
